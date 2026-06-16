@@ -1,0 +1,6 @@
+{
+  "name": "Alansal Veri Analiz ve Raporlama",
+  "description": "Google E-Tablolar üzerinden karar bölgeleri bazında alansal verileri (metrekare) görselleştiren, özel kolon gruplamalarıyla (örn. Tarım Alanları) toplam alan hesabı ve interaktif raporlama yapan web uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
